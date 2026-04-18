@@ -362,13 +362,6 @@ Feel free to use CODE-TYPER in your videos! Attribution appreciated but not requ
 
 ---
 
-## 🎬 Made a Video Using CODE-TYPER?
-
-Tag us on social media!
-- Twitter: @OrbitScript
-- YouTube: OrbitScript
-- Instagram: @orbitscript
-
 We'd love to feature your content! 🌟
 
 ---
@@ -378,7 +371,6 @@ We'd love to feature your content! 🌟
 **Made with ❤️ for Content Creators**
 
 [![GitHub](https://img.shields.io/badge/GitHub-OrbitScript-181717?logo=github)](https://github.com/OrbitScript)
-[![YouTube](https://img.shields.io/badge/YouTube-OrbitScript-red?logo=youtube)](https://youtube.com/@OrbitScript)
 
 **Star this repo if it helped you! ⭐**
 
