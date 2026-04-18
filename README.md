@@ -358,7 +358,7 @@ Feel free to use CODE-TYPER in your videos! Attribution appreciated but not requ
 
 - 🐛 Found a bug? [Open an issue](https://github.com/OrbitScript/code-typer/issues)
 - 💡 Have an idea? [Start a discussion](https://github.com/OrbitScript/code-typer/discussions)
-- 📧 Email: support@orbitscript.dev
+- 📧 Email: sumanskd44@gmail.com
 
 ---
 
